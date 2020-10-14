@@ -1,0 +1,23 @@
+{
+  "titleMain": "Main Menu",
+  "button": {
+    "checkEquipment": "Check Equipment",
+    "allList": "All Lists"
+  },
+  "containerMedicalEquipment": {
+    "titleMain": "Medical Equipment Examination",
+    "titleSmall": "Examination RFID"
+  },
+  "containerRegisterEquipment": {
+    "titleMain": "Register Equipment",
+    "titleSmall": "Register Tools"
+  },
+  "containerSurgicalInstruments": {
+    "titleMain": "Manage Tool Groups",
+    "titleSmall": "Surgical Instruments Group"
+  },
+  "containerHistory": {
+    "titleMain": "History",
+    "titleSmall": "Historical Data"
+  }
+}

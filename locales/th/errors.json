@@ -1,0 +1,5 @@
+{
+  "required": "{{field}} is required",
+  "must be a valid email": "Must be a valid email",
+  "must be at least 3 characters": "Must be at least 3 characters"
+}

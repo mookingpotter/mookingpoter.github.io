@@ -1,0 +1,23 @@
+{
+  "titleMain": "เมนูหลัก",
+  "button": {
+    "checkEquipment": "ตรวจสอบอุปกรณ์",
+    "allList": "ดูรายการทั้งหมด"
+  },
+  "containerMedicalEquipment": {
+    "titleMain": "การตรวจสอบอุปกรณ์ทางการแพทย์",
+    "titleSmall": "ตรวจสอบ RFID"
+  },
+  "containerRegisterEquipment": {
+    "titleMain": "ลงทะเบียนอุปกรณ์",
+    "titleSmall": "ลงทะเบียนเครื่องมือ"
+  },
+  "containerSurgicalInstruments": {
+    "titleMain": "จัดการกลุ่มเครื่องมือ",
+    "titleSmall": "กลุ่มเครื่องมือผ่าตัด"
+  },
+  "containerHistory": {
+    "titleMain": "ประวัติการใช้งาน",
+    "titleSmall": "ข้อมูลย้อนหลัง"
+  }
+}

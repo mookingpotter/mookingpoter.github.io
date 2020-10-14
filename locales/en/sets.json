@@ -1,0 +1,54 @@
+{
+  "surgical instrument sets": "Surgical Instrument Sets",
+  "sets type": "Surgical Type",
+  "surgical instrument sets information": "Surgical Information",
+  "surgical type list": "Surgical Type List",
+  "add surgical instrument sets": "Create Surgical Instrument Sets",
+  "edit surgical instrument sets": "Edit Surgical Instrument Sets",
+  "surgical type list search": "Surgical type list search",
+  "view surgical type list": "View surgical type list",
+  "button": {
+    "save": "Save",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "exit": "Exit"
+  },
+  "form1": {
+    "title": "ข้อมูลสำหรับการผ่าตัด",
+    "name": "ชื่อประเภทการผ่าตัด",
+    "hospitalName": "ชื่อโรงพยาบาล",
+    "detail": "รายละเอียด",
+    "type": "ประเภทการผ่าตัด",
+    "select surgical instrument sets": "เลือกเครื่องมือทางการแพทย์",
+    "label for the active switch": "สถานะเปิดการใช้งาน",
+    "description for the active switch": "การสลับเปลี่ยนแปลงค่าจะทำให้มีผลต่อการถูกนำแสดงสถานะของชุดเครื่องมือการผ่าตัด",
+    "description text": "ข้อมูลพื้นฐานสำหรับบอกรายละเอียดของกลุ่มเครื่องมือผ่าตัด สามารถเปลี่ยนแปลงได้หลังจากบันทึกไปแล้ว"
+  },
+  "form2": {
+    "title": "เลือกเครื่องมือทางการแพทย์",
+    "tools": "เครื่องมือแพทย์",
+    "selected items": "รายการที่เลือก",
+    "equipment type": "ประเภทเครื่องมือ",
+    "tool total": "เครื่องมือทั้งหมด",
+    "search": "ค้นหา",
+    "amount": "จำนวน",
+    "piece": "ชิ้น",
+    "type": "แบบ",
+    "warning": "กรุณาเลือกเครื่องมืออย่างน้อย 1 ชนิด"
+  },
+  "form3": {
+    "title": "ตรวจสอบข้อมูล",
+    "tool image": "รูปเครื่องมือ",
+    "set name": "ชื่อกลุ่ม",
+    "hospital": "โรงพยาบาล",
+    "description": "คำอธิบาย",
+    "descript form": "ตรวจสอบข้อมูลที่ถูกกรอก และถูกเลือก ถ้าต้องการแก้ไขสามารถกดปุ่ม ย้อนกลับ เพื่อกลับไปแก้ไข หรือกดปุ่ม ส่ง เพื่อทำการยืนยันและบันทึกลงฐานข้อมูล"
+  },
+  "you are all done": "บันทึกเรียบร้อยแล้ว!",
+  "message": "คุณสามารถแก้ไขข้อมูลทั้งหมดที่คุณเพิ่งกรอกไป โดยเลือกแก้ไข ณ ข้อมูลที่คุณต้องการ",
+  "view your surgical instruments": "ดูรายการชุดเครื่องการผ่าตัดทั้งหมด",
+  "surgical type details": "รายละเอียดของประเภทการผ่าตัด",
+  "count": "จำนวน",
+  "must be at least 3 characters": "Must be at least 3 characters"
+}

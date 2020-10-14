@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/verify/VerifyView.js"],"names":["VerifyView"],"mappings":"kHAAA,2BAKeA,UAHI,WACjB,OAAO","file":"static/js/23.f5eab2ca.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst VerifyView = () => {\r\n  return <div>Verify page</div>;\r\n};\r\nexport default VerifyView;\r\n"],"sourceRoot":""}
