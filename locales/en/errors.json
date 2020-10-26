@@ -1,5 +1,6 @@
 {
   "required": "{{field}} จำเป็นต้องกรอก",
   "must be a valid email": "กรุณากรอกอีเมลให้ถูกต้อง",
-  "must be at least 3 characters": "กรุณากรอกอย่างน้อย 3 ตัวอักษร"
+  "must be at least 3 characters": "กรุณากรอกอย่างน้อย 3 ตัวอักษร",
+  "something went wrong": "มีบางอย่างผิดพลาด"
 }

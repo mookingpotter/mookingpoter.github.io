@@ -1,5 +1,35 @@
 {
   "register medical tools": "ลงทะเบียนอุปกรณ์",
   "register medical tools list search": "ค้นหารายการลงทะเบียนอุปกรณ์",
-  "add register medical tools": "เพิ่มอุปกรณ์"
+  "add register medical tools": "เพิ่มอุปกรณ์ทางการแพทย์",
+  "scan register rfid medical tools": "สแกน RFID",
+  "stop scan register rfid medical tools": "หยุดสแกน RFID",
+  "button": {
+    "save": "บันทึก",
+    "next": "ถัดไป",
+    "delete": "ลบ",
+    "main": "ตั้งเป็นภาพหลัก",
+    "previous": "ย้อนกลับ",
+    "submit": "ส่ง",
+    "exit": "ออก"
+  },
+  "form1": {
+    "title": "ข้อมูลสำหรับอุปรกร์ทางการแพทย์",
+    "name": "ชื่ออุปกรณ์",
+    "detail": "รายละเอียด",
+    "rfid": "รายการลงทะเบียน RFID",
+    "label for the rfid": "ลงทะเบียน RIFD",
+    "description for the rfid": "กดปุ่มเพิ่ม RFID เพื่อทำการสแกน",
+    "list empty for the rfid": "โปรดทำการสแกน RFID",
+    "description text": "ข้อมูลพื้นฐานสำหรับบอกรายละเอียดอุปกรณ์ทางการแพทย์ สามารถเปลี่ยนแปลงได้หลังจากบันทึกไปแล้ว"
+  },
+  "form2": {
+    "title": "รูปภาพอุปกรณ์",
+    "title upload image": "คลิกเพื่อเรียกดูเลือกไฟล์ภาพ",
+    "title main image": "ภาพหลัก",
+    "title button main image": "ตั้งเป็นภาพหลัก"
+  },
+  "you are all done": "บันทึกเรียบร้อยแล้ว!",
+  "message": "ข้อมูลของคุณถูกบันทึกเรียบร้อยแล้ว สามารถแก้ไข หรือดูรายละเอียดของรายการได้ที่หน้าแสดงรายการ",
+  "view your medical tools": "ดูรายการอุปกรณ์ทางการแพทย์ทั้งหมด"
 }

@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/auth/RegisterView/index.js"],"names":[],"mappings":"iHAAA,2BACe,qBACb,OAAO","file":"static/js/10.78430397.chunk.js","sourcesContent":["import React from \"react\";\r\nexport default () => {\r\n  return <div>Register Page</div>;\r\n};\r\n"],"sourceRoot":""}
